@@ -1,0 +1,52 @@
+package doctor;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JTextField;
+import java.awt.BorderLayout;
+
+public class doctor_2 {
+
+	private JFrame frame;
+	private JTextField txtId;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					doctor_2 window = new doctor_2();
+					window.frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the application.
+	 */
+	public doctor_2() {
+		initialize();
+	}
+
+	/**
+	 * Initialize the contents of the frame.
+	 */
+	private void initialize() {
+		frame = new JFrame();
+		frame.setTitle("Ò½Éú");
+		frame.setBounds(100, 100, 600, 500);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+		txtId = new JTextField();
+		txtId.setText("²¡ÈË:"+"  ID:");
+		frame.getContentPane().add(txtId, BorderLayout.NORTH);
+		txtId.setColumns(10);
+	}
+
+}

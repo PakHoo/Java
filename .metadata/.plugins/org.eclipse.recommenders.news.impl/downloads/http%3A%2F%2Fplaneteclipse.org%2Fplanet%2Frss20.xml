@@ -1,0 +1,854 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+
+<channel>
+	<title>Planet Eclipse</title>
+	<link>http://planeteclipse.org/planet/</link>
+	<language>en</language>
+	<description>Planet Eclipse - http://planeteclipse.org/planet/</description>
+
+<item>
+	<title>Mikael Barbero: RFPs for new Friends of Eclipse Enhancement Program (FEEP) projects posted</title>
+	<guid isPermaLink="true">https://mikael-barbero.tumblr.com/post/154241861340</guid>
+	<link>https://mikael-barbero.tumblr.com/post/154241861340</link>
+	<description>&lt;p&gt;The Eclipse Foundation is actively seeking bids on &lt;b&gt;10 new &lt;a href=&quot;https://eclipse.org/contribute/dev_program.php&quot;&gt;FEEP&lt;/a&gt; Development Efforts&lt;/b&gt;, along with 5 outstanding Development Efforts that have not yet been bid. The objective is to have this work completed in the 1st quarter of 2017.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Please see the &lt;a href=&quot;https://projects.eclipse.org/development-efforts&quot;&gt;list of development efforts&lt;/a&gt;, and &lt;b&gt;submit your bids before December 23, 2016&lt;/b&gt;. See the &lt;a href=&quot;https://eclipse.org/contribute/dev_program/faq.php&quot;&gt;FAQ for the bidding process&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This list has been crafted based on the feedbacks of the Eclipse PMC and the Eclipse Architecture council members. It also gathered some of the most wanted bugs on the bugzilla (i.e. the bugs with the highest number of votes).&lt;/p&gt;&lt;p&gt;As a reminder, the &lt;a href=&quot;https://eclipse.org/contribute/dev_program.php&quot;&gt;FEEP program&lt;/a&gt; uses the funds donated to the Eclipse Foundation to make direct improvements and enhancements to the Eclipse IDE/Platform.&lt;/p&gt;</description>
+	<pubDate>Fri, 09 Dec 2016 10:38:03 +0000</pubDate>
+</item>
+<item>
+	<title>itemis: Survey results: User experience with YAKINDU Statechart Tools</title>
+	<guid isPermaLink="true">https://blogs.itemis.com/en/user-experience-with-yakindu-statechart-tools</guid>
+	<link>https://blogs.itemis.com/en/user-experience-with-yakindu-statechart-tools</link>
+	<description>&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In October 2015 we started a short survey about &lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://www.itemis.com/en/yakindu/statechart-tools/&quot;&gt;YAKINDU Statechart Tools&lt;/a&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;to get a better understanding how our users experience the tool, what we have to improve and which features we should implement next.&lt;/span&gt;&lt;/p&gt;  
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Thanks to all the participants so far! Now let’s have a detailed look at the survey results and the user experience with YAKINDU statechart tools. For all those nitpickers out there who want to complain that the overall sum is above 100 % for some questions – this is because multi selection was allowed :)&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;h2&gt;How would you describe yourself?&lt;/h2&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;img alt=&quot;describe-yourself-YAKINDU-statechart-tools-survey.png&quot; height=&quot;383&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog/YAKINDU%20Statechart%20Tools/describe-yourself-YAKINDU-statechart-tools-survey.png?t=1481545833853&amp;amp;width=619&amp;amp;height=383&amp;amp;name=describe-yourself-YAKINDU-statechart-tools-survey.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;619&quot; /&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;It figures that over 40 % of our participants are software developers. Great to see, that YAKINDU Statechart Tools is used for university education: Over 25 % of our participants are students or professors. We are working continuosly on the improvement of the tool to make it better for university education as well.&lt;/span&gt;&lt;/p&gt; 
+&lt;h2&gt;&lt;strong&gt;&lt;br /&gt;Do you have any experience with other state machine tools?&lt;/strong&gt;&lt;/h2&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;img alt=&quot;experience-with-state-machine-tools-matlab stateflow (18 %)-Enterprise Architect (19 %)-Rhapsody (9 %)-IAR Visual State (9 %).png&quot; height=&quot;309&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog/YAKINDU%20Statechart%20Tools/experience-with-state-machine-tools-YAKINDU-statechart-tools-survey.png?t=1481545833853&amp;amp;width=672&amp;amp;height=309&amp;amp;name=experience-with-state-machine-tools-YAKINDU-statechart-tools-survey.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;672&quot; /&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Almost half of our participants use only YAKINDU Statechart Tools – thank you for your trust!&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br /&gt;&lt;br /&gt; &lt;/span&gt;&lt;/p&gt; 
+&lt;h2&gt;&lt;strong&gt;How do you rate the tool?&lt;/strong&gt;&lt;/h2&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;img alt=&quot;Rating-YAKINDU-statechart-tools-survey.png&quot; height=&quot;389&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog/YAKINDU%20Statechart%20Tools/Rating-YAKINDU-statechart-tools-survey.png?t=1481545833853&amp;amp;width=670&amp;amp;height=389&amp;amp;name=Rating-YAKINDU-statechart-tools-survey.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;670&quot; /&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Wow – not that bad! The majority ranked “Graphical Editing”, “Simulation”, “Validation”, “Code Generation” and “Usability” as good – thank you very much! Only “Documentation &amp;amp; Tutorials” is ranked as “fair” by 40 % –  we are glad to see, &lt;a href=&quot;http://muelder.blogspot.de/2015/10/yakindu-statechart-tools-survey.html&quot;&gt;that the rating increased since our last survey&lt;/a&gt;, but it still shows that we could perform better in this domain. So it is very important for us to improve our documentation and tutorials constantly.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;h2&gt;&lt;strong&gt;How interesting would be the following features for you?&lt;/strong&gt;&lt;/h2&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;img alt=&quot;interesting-features-YAKINDU-statechart-tools-survey.png&quot; height=&quot;404&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog/YAKINDU%20Statechart%20Tools/interesting-features-YAKINDU-statechart-tools-survey.png?t=1481545833853&amp;amp;width=689&amp;amp;height=404&amp;amp;name=interesting-features-YAKINDU-statechart-tools-survey.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;689&quot; /&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Really interesting seems to be the deep C integration. 65 % of our participants rate this with very or extreme interesting. Good news for you: &lt;a href=&quot;https://www.itemis.com/en/yakindu/statechart-tools/documentation/user-guide/#cdom_deep-c-integration&quot;&gt;The deep C integration&lt;/a&gt; is part of our Professional Edition which will be released soon!&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;The results also show that our participants  are interested in an e-book with additional examples – thank you for the hint! You can already find a &lt;a href=&quot;https://www.itemis.com/en/yakindu/statechart-tools/documentation/examples/&quot;&gt;few examples&lt;/a&gt; on our website.&lt;/p&gt; 
+&lt;h2&gt;&lt;strong&gt;&lt;br /&gt;If our product was not open source, how likely would you be to buy YAKINDU Statechart Tools?&lt;/strong&gt;&lt;/h2&gt; 
+&lt;p&gt;&lt;img alt=&quot;Buy-YAKINDU-statechart-tools-survey.png&quot; height=&quot;316&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog/YAKINDU%20Statechart%20Tools/Buy-YAKINDU-statechart-tools-survey.png?t=1481545833853&amp;amp;width=718&amp;amp;height=316&amp;amp;name=Buy-YAKINDU-statechart-tools-survey.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;718&quot; /&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Many of our participants are not sure if they would invest in YAKINDU Statechart Tools if it wouldn’t be open source anymore. But maybe we can convince you with our Professional Edition? It brings some additional feature the open source version does not have – such as the deep C integration. You can find a &lt;a href=&quot;https://www.itemis.com/en/yakindu/statechart-tools/download/&quot;&gt;comparison of the open source and the Professional Edition on our download page&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. Take a look and choose for yourself which version fits your needs – or contact our YAKINDU team!&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;User feedback is always important for further development – so thank you all for your participation. As a little thank you-gift we raffle a brandnew Intel® Edison Breakout Board Kit. &lt;/span&gt;&lt;/p&gt; 
+&lt;div style=&quot;text-align: center;&quot;&gt;
+ 
+&lt;/div&gt; 
+&lt;p&gt;&lt;br /&gt;The winner Arnaud was contacted via mail. Congratulations and thanks to all of you!&lt;/p&gt;  
+&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://track.hubspot.com/__ptq.gif?a=761475&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblogs.itemis.com%2Fen%2Fuser-experience-with-yakindu-statechart-tools&amp;amp;bu=https%253A%252F%252Fblogs.itemis.com&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 09 Dec 2016 08:09:09 +0000</pubDate>
+	<author>panagiotidis@itemis.de (Charalambos Panagiotidis)</author>
+</item>
+<item>
+	<title>Vladimir Piskarev: Eclipse Handly 0.6 Released</title>
+	<guid isPermaLink="false">http://pisv.wordpress.com/?p=621</guid>
+	<link>https://pisv.wordpress.com/2016/12/09/eclipse-handly-0-6-released/</link>
+	<description>&lt;p&gt;We are pleased to announce the availability of Eclipse Handly &lt;a href=&quot;https://projects.eclipse.org/projects/technology.handly/releases/0.6&quot; target=&quot;_blank&quot;&gt;0.6&lt;/a&gt; release. This release is an incremental improvement of the entirely new design introduced in Handly &lt;a href=&quot;https://pisv.wordpress.com/2016/06/22/announcing-handly-0-5/&quot;&gt;0.5&lt;/a&gt;, with special emphasis on facilities for non-breaking API evolution and support for non-local file systems and files external to the Eclipse workspace.  Besides quite a few revisions through the whole spectrum of the core API, new features include a context API (&lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=499220&quot; target=&quot;_blank&quot;&gt;499220&lt;/a&gt;), an API for the model object (&lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=500653&quot; target=&quot;_blank&quot;&gt;500653&lt;/a&gt;), and a notification manager API (&lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=505777&quot; target=&quot;_blank&quot;&gt;505777&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://wiki.eclipse.org/Handly/NewIn06&quot; target=&quot;_blank&quot;&gt;New and Noteworthy&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://wiki.eclipse.org/Handly/Migration06&quot; target=&quot;_blank&quot;&gt;Migration Guide&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://projects.eclipse.org/projects/technology.handly/downloads&quot; target=&quot;_blank&quot;&gt;Downloads&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you are new to &lt;a href=&quot;http://www.eclipse.org/handly/&quot; target=&quot;_blank&quot;&gt;Handly&lt;/a&gt; or just wish a succinct refresher, here is a bunch of slides about the project’s background, goals, and current status:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://pisv.github.io/slides/handly/201612/&quot; target=&quot;_blank&quot;&gt;http://pisv.github.io/slides/handly/201612/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also take a look at the project’s getting started guide, which has been updated to the new Handly release:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/pisv/gethandly/wiki&quot; target=&quot;_blank&quot;&gt;https://github.com/pisv/gethandly/wiki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Handly Team&lt;/p&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=pisv.wordpress.com&amp;amp;blog=63898667&amp;amp;post=621&amp;amp;subd=pisv&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 09 Dec 2016 07:31:36 +0000</pubDate>
+</item>
+<item>
+	<title>Benjamin Cabe: Announcing the Open IoT Challenge 3.0 scholars</title>
+	<guid isPermaLink="false">https://blog.benjamin-cabe.com/?p=2733</guid>
+	<link>http://feedproxy.google.com/~r/benjamin-cabe-planet-eclipse/~3/Z4n7t4Ukm00/announcing-the-open-iot-challenge-3-0-scholars</link>
+	<description>&lt;p&gt;The third edition of the &lt;a href=&quot;https://iot.eclipse.org/open-iot-challenge/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Open IoT Challenge&lt;/strong&gt;&lt;/a&gt; officially started one week ago. More than 80 teams have submitted their entries and are now in the running to win the Open IoT Challenge 3.0!&lt;/p&gt;
+&lt;p&gt;Participants have about &lt;strong&gt;three months to complete their solution&lt;/strong&gt; and show the world how open source and open standards can help build innovative IoT solutions. On February 27, they will have to submit their final project report and hope that their work ends up in the top 3 winning solutions.&lt;/p&gt;
+&lt;p&gt;For now, the judges have reviewed all submissions and &lt;strong&gt;we have awarded  a “starter kit” to the most promising solutions&lt;/strong&gt;. We hope this will help them bootstrap their project. The kit comes in the form of $150 gift card to buy IoT hardware, as well as access to special offers from our sponsors.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.benjamin-cabe.com/wp-content/uploads/2016/12/challenge-sponsors.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-large wp-image-2737&quot; height=&quot;185&quot; src=&quot;https://blog.benjamin-cabe.com/wp-content/uploads/2016/12/challenge-sponsors-1024x400.png&quot; width=&quot;474&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The lucky teams/participants are (in no particular order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tom Morocz&lt;/strong&gt; – Residential home diagnostics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bilal Al-Saeedi&lt;/strong&gt; – Water management for farms&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Benjamin Lassillour&lt;/strong&gt; – Fish farming management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Siva Prasad Katru&lt;/strong&gt; – Agriculture app to manage a farm&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sergey Vasiliev&lt;/strong&gt; – Environmental monitoring&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mark Lidd&lt;/strong&gt; – build a secured device that can scan and detect IoT objects that could be compromised&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nedko Nedkov&lt;/strong&gt; – Domestic intrusion detection system&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Amarendra Sahoo&lt;/strong&gt; – Retail food storage management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deepak Sharma&lt;/strong&gt; – Smart traffic lights and controller&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Celso Mangueira&lt;/strong&gt; – Breeding monitor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vinayan H&lt;/strong&gt; – MPulse: machine health monitor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tien Cao-hoang&lt;/strong&gt; – Sensor network to monitor fish farms&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anupam Datta&lt;/strong&gt; – Factory equipment maintenance&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ettore Verrecchia&lt;/strong&gt; – Intelligent monitored garbage collection system&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Juan Pizarro&lt;/strong&gt; – Greenhouse automation/smart farming platform&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Marcos OAP&lt;/strong&gt; – Low cost connected homes smart city system&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Didier Donsez / i-greenhouse&lt;/strong&gt;: monitor greenhouses for organic and auto-production agriculture with LoRa and Sigfox endpoints&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As you see, all the submissions have very specific use cases in mind, and I’m really looking forward to seeing the solutions that will be built.&lt;/p&gt;
+&lt;p&gt;If you entered the challenge and your name does not come up in this list, it doesn’t mean you’re out – not at all! There were only so many entries we could select (and you may have noticed we selected more than initially planned), and unfortunately we had to draw a line somewhere. If you haven’t been awarded the “starter kit”, we still very much hope you will work on the project you’ve submitted.&lt;/p&gt;
+&lt;p&gt;All the participants will be sharing their journey on their blogs and on social media, so stay tuned to see what they will be up to! I will also be relaying some of the cool stuff being built on &lt;a href=&quot;https://twitter.com/kartben&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt; as well, of course.&lt;/p&gt;
+ &lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/benjamin-cabe-planet-eclipse/~4/Z4n7t4Ukm00&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Thu, 08 Dec 2016 16:26:37 +0000</pubDate>
+</item>
+<item>
+	<title>JBoss Tools Team: JBoss Tools and Red Hat Developer Studio Maintenance Release for Eclipse Neon.1</title>
+	<guid isPermaLink="true">http://tools.jboss.org/blog/10.2.0.ga-for-neon.1.html</guid>
+	<link>http://tools.jboss.org/blog/10.2.0.ga-for-neon.1.html</link>
+	<description>&lt;div&gt;&lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/downloads/jbosstools/neon/4.4.2.Final.html&quot;&gt;JBoss Tools 4.4.2&lt;/a&gt; and &lt;a href=&quot;http://tools.jboss.org/downloads/devstudio/neon/10.2.0.GA.html&quot;&gt;Red Hat JBoss Developer Studio 10.2&lt;/a&gt; for Eclipse Neon.1 are here waiting for you. Check it out!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;devstudio10&quot; src=&quot;http://tools.jboss.org/blog/images/devstudio10.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;installation&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#installation&quot;&gt;&lt;/a&gt;Installation&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss Developer Studio comes with everything pre-bundled in its installer. Simply download it from our &lt;a href=&quot;https://www.jboss.org/products/devstudio.html&quot;&gt;JBoss Products page&lt;/a&gt; and run it like this:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;literalblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre&gt;java -jar jboss-devstudio-&amp;lt;installername&amp;gt;.jar&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss Tools or Bring-Your-Own-Eclipse (BYOE) JBoss Developer Studio require a bit more:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This release requires at least Eclipse 4.6.1 (Neon.1a) but we recommend
+      using the latest &lt;a href=&quot;http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/neon1a&quot;&gt;Eclipse 4.6.1 Neon JEE Bundle&lt;/a&gt; since then you get most of the dependencies preinstalled.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Once you have installed Eclipse, you can either find us on the Eclipse Marketplace under &quot;JBoss Tools&quot; or &quot;Red Hat JBoss Developer Studio&quot;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For JBoss Tools, you can also use our update site directly.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;literalblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre&gt;http://download.jboss.org/jbosstools/neon/stable/updates/&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-is-new&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-is-new&quot;&gt;&lt;/a&gt;What is new?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Our main focus for this release was improvements for container based development and bug fixing.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;improved-openshift-3-and-docker-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#improved-openshift-3-and-docker-tools&quot;&gt;&lt;/a&gt;Improved OpenShift 3 and Docker Tools&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We continue to work on providing better experience for container based development in JBoss Tools and Developer Studio. Let’s go through a few interesting updates here.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;node-js-debugger&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#node-js-debugger&quot;&gt;&lt;/a&gt;Node.js Debugger&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Now it is possible to debug Node.js applications deployed to Openshift. All you need to do is creating a &lt;strong&gt;Server Adapter&lt;/strong&gt; for the app and running it in the &lt;strong&gt;Debug&lt;/strong&gt; mode. After that a new &lt;strong&gt;V8&lt;/strong&gt; debug session will be created:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;v8 debug console&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/v8-debug-console.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Put some breakpoints in the code and start debugging!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;node js debugger&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/node-js-debugger.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Changing the code during the debug session is also supported - just save the file and new changes will be applied automatically. Here is a short demo video which describes the debugging process in action:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;videoblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Step by step instructions are available &lt;a href=&quot;http://tools.jboss.org/documentation/whatsnew/jbosstools/4.4.2.AM3.html#openshift&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;cluster-common-namespace&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#cluster-common-namespace&quot;&gt;&lt;/a&gt;Cluster common namespace&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When looking for Openshift resources (builder images, templates), a common namespace is browsed.
+      Earlier hardcoded &lt;code&gt;openshift&lt;/code&gt; namespace is now configurable with default value &lt;code&gt;openshift&lt;/code&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;It can be accessed and modified through the connection extended properties:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Connection extended properties&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/connection-extended-properties-namespace.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;user-controlled-hostname-when-creating-routes&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#user-controlled-hostname-when-creating-routes&quot;&gt;&lt;/a&gt;User controlled hostname when creating routes&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When an application is being deployed to Openshift, a route is optionally created if required by the user.
+      Openshift/CDK used to create an &lt;a href=&quot;http://xip.io&quot;&gt;xip.io&lt;/a&gt; based hostname. User can now set its own hostname.
+      This allows for both changing the DNS to local IP provider (&lt;a href=&quot;http://nip.io&quot;&gt;nip.io&lt;/a&gt;) or using you own enterprise DNS naming strategy.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The hostname can be accessed from the Services and Routing Settings page when deploying an application:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;wizard new application hostname&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/wizard-new-application-hostname.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;create-routes-targetting-a-specific-service-port&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#create-routes-targetting-a-specific-service-port&quot;&gt;&lt;/a&gt;Create routes targetting a specific service port&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When an application is being deployed to Openshift, a route is optionally created if required by the user.
+      It is now possible to target a specific port (exposed by a to be created service). When the ports are being
+      displayed, it is now possible to select one of them to be used by the route. By default, the first port is selected.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The route port can be accessed from the Services and Routing Settings page when deploying an application:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;wizard new application route port&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/wizard-new-application-route-port.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;cdk-server-using-native-terminal-for-better-user-interactions&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#cdk-server-using-native-terminal-for-better-user-interactions&quot;&gt;&lt;/a&gt;CDK server using native terminal for better user interactions&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The CDK server adapter now uses a native terminal that allows better interaction with the user.
+      In the case credentials are not passed in the Vagrant environment, the user will be asked just as with
+      the standard Vagrant CLI and in case of registration failures, retries will be performed.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;First, make sure your CDK server adapter is configured not to pass credentials:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;CDK editor&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/cdk-editor-no-credentials-pass.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Then, start the CDK server adapter and a new terminal window will open, asking for registration:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Registration&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/cdk-terminal-asks-for-registration.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;If you answered &lt;code&gt;y&lt;/code&gt; to the previous questions, then the terminal window will ask for username:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Username&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/cdk-terminal-asks-for-username.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Then the terminal window will ask for password:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Password&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/cdk-terminal-asks-for-password.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;If the registration fails, then the terminal window will perform retries and ask again for username and password:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Password&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/cdk-terminal-asks-for-password2.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;server-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#server-tools&quot;&gt;&lt;/a&gt;Server Tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;quickfixes-now-available-in-runtime-detection&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#quickfixes-now-available-in-runtime-detection&quot;&gt;&lt;/a&gt;QuickFixes now available in runtime detection&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Runtime detection has been a feature of JBossTools for a long while, however, it would sometimes create runtime and server adapters with configuration errors without alerting the user. Now, the user will have an opportunity to execute quickfixes before completing the creation of their runtimes and servers.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 1&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_1.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;To see this in action, we can first open up the runtime-detection preference page. We can see that our runtime-detection will automatically search three paths for valid runtimes of any type.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 2&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_2.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Once we click search, the runtime-detection’s search dialog appears, with results it has found. In this case, it has located an EAP 6.4 and an EAP 7.0 installation. However, we can see that both have errors. If we click on the error column for the discovered EAP 7.0, the error is expanded, and we see that we’re missing a valid / compatible JRE. To fix the issue, we should click on this item.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 3&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_3.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When we click on the problem for EAP 7, the new JRE dialog appears, allowing us to add a compatible JRE. The dialog helpfully informs us of what the restrictions are for this specific runtime. In this case, we’re asked to define a JRE with a minimum version of Java-8.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 4&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_4.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;If we continue along with the process by locating and adding a Java 8 JRE, as shown above, and finish the dialog, we’ll see that all the errors will disappear for both runtimes. In this example, the EAP 6.4 required a JRE of Java 7 or higher. The addition of the Java 8 JRE fixed this issue as well.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 5&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_5.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Hopefully, this will help users preemptively discover and fix errors before being hit with surprising errors when trying to use the created server adapters.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;support-for-wildfly-10-1&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#support-for-wildfly-10-1&quot;&gt;&lt;/a&gt;Support for WildFly 10.1&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The WildFly 10.0 Server adapter has been renamed to WildFly 10.x. It has been tested and verified to work for WildFly 10.1 installations.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;hibernate-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#hibernate-tools&quot;&gt;&lt;/a&gt;Hibernate Tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;hibernate-runtime-provider-updates&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#hibernate-runtime-provider-updates&quot;&gt;&lt;/a&gt;Hibernate Runtime Provider Updates&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A number of additions and updates have been performed on the available Hibernate runtime  providers.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;new-hibernate-5-2-runtime-provider&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#new-hibernate-5-2-runtime-provider&quot;&gt;&lt;/a&gt;New Hibernate 5.2 Runtime Provider&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;With final releases available in the Hibernate 5.2 stream, the time was right to make available a corresponding Hibernate 5.2 runtime provider. This runtime provider incorporates Hibernate Core version 5.2.2.Final and Hibernate Tools version 5.2.0.Beta1.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot; style=&quot;text-align: center;&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;hibernate 5 2&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/hibernate/images/4.4.1.Final/hibernate_5_2.png&quot; width=&quot;381&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;title&quot;&gt;Figure 1. Hibernate 5.2 is available&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;other-runtime-provider-updates&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#other-runtime-provider-updates&quot;&gt;&lt;/a&gt;Other Runtime Provider Updates&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Hibernate 4.3 runtime provider now incorporates Hibernate Core version 4.3.11.Final and Hibernate Tools version 4.3.5.Final.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Hibernate 5.0 runtime provider now incorporates Hibernate Core version 5.0.10.Final and Hibernate Tools version 5.0.2.Final.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Hibernate 5.1 runtime provider now incorporates Hibernate Core version 5.1.1.Final and Hibernate Tools version 5.1.0.CR1.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;forge-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#forge-tools&quot;&gt;&lt;/a&gt;Forge Tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;added-install-addon-from-the-catalog-command&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#added-install-addon-from-the-catalog-command&quot;&gt;&lt;/a&gt;Added Install addon from the catalog command&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;From Forge 3.3.0.Final onwards it is now possible to query and install addons listed in the &lt;a href=&quot;http://forge.jboss.org/addons&quot;&gt;Forge addons page&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;addon install from catalog&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/forge/images/4.4.1.AM3/addon-install-from-catalog.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;forge-runtime-updated-to-3-3-1-final&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#forge-runtime-updated-to-3-3-1-final&quot;&gt;&lt;/a&gt;Forge Runtime updated to 3.3.1.Final&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The included Forge runtime is now 3.3.1.Final. Read the official announcement &lt;a href=&quot;http://forge.jboss.org/news/jboss-forge-3.3.1.final-is-here&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;startup&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/forge/images/4.4.1.Final/startup.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;freemarker&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#freemarker&quot;&gt;&lt;/a&gt;Freemarker&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;freemarker-2-3-25&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#freemarker-2-3-25&quot;&gt;&lt;/a&gt;Freemarker 2.3.25&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Freemarker library included in the Freemarker IDE was updated to latest available version 2.3.25.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;flth-fltx-file-extensions-added&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#flth-fltx-file-extensions-added&quot;&gt;&lt;/a&gt;flth / fltx file extensions added&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The new flth and fltx extensions have been added and associated with Freemarker IDE. &lt;code&gt;flth&lt;/code&gt; stands for HTML content whereas &lt;code&gt;fltx&lt;/code&gt; stands for XML content.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;overhaul-of-the-plugin-template-parser&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#overhaul-of-the-plugin-template-parser&quot;&gt;&lt;/a&gt;Overhaul of the plugin template parser&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The parser that FreeMarker IDE uses to extract IDE-centric information
+      (needed for syntax highlighting, related tag highlighting,
+      auto-completion, outline view, etc.) was overhauled. Several bugs were
+      fixed, and support for the newer template language features were
+      added. Also, the syntax highlighting is now more detailed inside
+      expressions.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;related-tag-background-highlighting-fixed&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#related-tag-background-highlighting-fixed&quot;&gt;&lt;/a&gt;Related tag background highlighting fixed&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Fixed the issue when the (by default) yellow highlighting of the
+      related FTL tags shift away from under the tag as you type.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;showing-whitespace-block-selection-mode&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#showing-whitespace-block-selection-mode&quot;&gt;&lt;/a&gt;Showing whitespace, block selection mode&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The standard &quot;Show whitespace characters&quot; and &quot;Toggle block selection
+      mode&quot; icons are now available when editing a template.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;improved-automatic-finishing-of-freemarker-constructs&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#improved-automatic-finishing-of-freemarker-constructs&quot;&gt;&lt;/a&gt;Improved automatic finishing of FreeMarker constructs&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When you type &lt;code&gt;&amp;lt;#&lt;/code&gt;, &lt;code&gt;&amp;lt;@&lt;/code&gt;, &lt;code&gt;${&lt;/code&gt;, &lt;code&gt;#{&lt;/code&gt; and &lt;code&gt;&amp;lt;#--&lt;/code&gt; the freemarker editor now automatically closes them.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;error-positions-links-on-the-console&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#error-positions-links-on-the-console&quot;&gt;&lt;/a&gt;Error positions links on the console&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When a FreeMarker exception is printed to the console, the error
+      position in it is a link that navigates to the error. This has worked
+      long ago, but was broken for quite a while.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;fixed-auto-indentation&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#fixed-auto-indentation&quot;&gt;&lt;/a&gt;Fixed auto-indentation&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When hitting enter, sometimes the new line haven’t inherited the
+      indentation of the last line.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;updated-the-database-used-for-auto-completion&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#updated-the-database-used-for-auto-completion&quot;&gt;&lt;/a&gt;Updated the &quot;database&quot; used for auto completion&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Auto completion now knows all directives and &quot;built-ins&quot; up to
+      FreeMarker 2.3.25.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-is-next&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-is-next&quot;&gt;&lt;/a&gt;What is next?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Having JBoss Tools 4.4.2 and Developer Studio 10.2 out we are already working on the next maintenance release for Eclipse Neon.2.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Enjoy!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Jeff Maury&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Wed, 07 Dec 2016 23:07:58 +0000</pubDate>
+</item>
+<item>
+	<title>Maximilian and Jonas: Eclipse Converge and Devoxx US</title>
+	<guid isPermaLink="false">http://eclipsesource.com/blogs/?p=27468</guid>
+	<link>http://eclipsesource.com/blogs/2016/12/07/eclipse-converge-and-devoxx-us/</link>
+	<description>&lt;p&gt;EclipseCon North America &lt;a href=&quot;https://www.eclipseconverge.org/na2017/news#node-2697&quot;&gt;has become Eclipse Converge&lt;/a&gt; in 2017 and is now combined with &lt;a href=&quot;http://cfp.devoxx.us/&quot;&gt;Devoxx US&lt;/a&gt;. Let us briefly discuss why this is great for &lt;strong&gt;YOU &lt;/strong&gt;as &lt;strong&gt;attendee&lt;/strong&gt; and last but not least as &lt;strong&gt;speaker&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;So why go there from an attendee perspective?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Devoxx is a very renowned and successful series of conferences – mainly in Europe – with literally over 10.000 developers visiting yearly. Finally De&lt;a href=&quot;http://cfp.devoxx.us/&quot;&gt;voxx is coming to the US&lt;/a&gt;. You can expect Devoxx to bring a &lt;a href=&quot;http://cfp.devoxx.us/2017/index.html&quot;&gt;great program&lt;/a&gt; for developers to a beautiful location in the US – &lt;a href=&quot;https://en.wikipedia.org/wiki/California&quot;&gt;California&lt;/a&gt;.  In contrast to EclipseCon, you can expect a broader range of content, that is not focused on Eclipse only. Now the best part: Since Eclipse Converge is now combined with Devoxx, you can on the first day visit EclipseCon and get all the interesting Eclipse content and afterwards visit Devoxx at the same location. Time to &lt;a href=&quot;https://devoxx.us/registration/&quot;&gt;register&lt;/a&gt;…or maybe time to think about submitting a talk…see next section :)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;So why submit a talk and go there as a speaker?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If your talk submitted to Eclipse Converge gets accepted, you will get a speaker discount “as usual”. But this year this discount code is also valid for Devoxx US. So if you are &lt;a href=&quot;https://www.eclipseconverge.org/na2017/speakerfaqs&quot;&gt;eligible for a 100% discount&lt;/a&gt; you can redeem it for a ticket for Eclipse Converge AND for Devoxx US!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.eclipseconverge.org/na2017/cfp&quot;&gt;Submit your proposal now&lt;/a&gt;, &lt;a href=&quot;https://www.eclipseconverge.org/na2017/programcommittee&quot;&gt;we&lt;/a&gt; are expecting awesome proposals!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.eclipseconverge.org/na2017/cfp&quot;&gt;&lt;img alt=&quot;eclipse-converge-submit-your-proposal-v2&quot; class=&quot;alignnone  wp-image-27469&quot; height=&quot;196&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/uploads/2016/12/Eclipse-Converge-Submit-your-Proposal-v2-300x161.png&quot; width=&quot;365&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;div style=&quot;display: inline-block;&quot;&gt;&lt;a href=&quot;https://twitter.com/intent/tweet?source=webclient&amp;amp;text=Eclipse+Converge+and+Devoxx+US&amp;amp;via=eclipsesource&amp;amp;url=http://eclipsesource.com/blogs/2016/12/07/eclipse-converge-and-devoxx-us/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;&lt;img alt=&quot;Twitter&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/twitter.png&quot; title=&quot;Twitter&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://plus.google.com/share?url=http://eclipsesource.com/blogs/2016/12/07/eclipse-converge-and-devoxx-us/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;+1&quot;&gt;&lt;img alt=&quot;Google+&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/google_plus.png&quot; title=&quot;Google+&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.linkedin.com/cws/share?url=http://eclipsesource.com/blogs/2016/12/07/eclipse-converge-and-devoxx-us/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Share on LinkedIn&quot;&gt;&lt;img alt=&quot;LinkedIn&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/linkedin.png&quot; title=&quot;LinkedIn&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=http://eclipsesource.com/blogs/2016/12/07/eclipse-converge-and-devoxx-us/&amp;amp;t=Eclipse+Converge+and+Devoxx+US&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Facebook&quot;&gt;&lt;img alt=&quot;Facebook&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/facebook.png&quot; title=&quot;Facebook&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2016/12/07/eclipse-converge-and-devoxx-us/#respond&quot;&gt;Leave a Comment&lt;/a&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 07 Dec 2016 19:56:00 +0000</pubDate>
+</item>
+<item>
+	<title>Gorkem Ercan: A conference for Eclipse heads</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-29853730.post-7776204754090202700</guid>
+	<link>http://feedproxy.google.com/~r/GorkemErcan/eclipse/~3/W2-iGMNjqLY/a-conference-for-eclipse-heads.html</link>
+	<description>&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://3.bp.blogspot.com/-_wMydjou3tk/WEcl_1eVRnI/AAAAAAAADKw/xfDJEMnxBdUMwIJc_P8yYxqD_kz5HqGkACLcB/s1600/Eclipse%2BConverge%2B-%2BSubmit%2Byour%2BProposal.png&quot; style=&quot;clear: left; float: left; margin-bottom: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;171&quot; src=&quot;https://3.bp.blogspot.com/-_wMydjou3tk/WEcl_1eVRnI/AAAAAAAADKw/xfDJEMnxBdUMwIJc_P8yYxqD_kz5HqGkACLcB/s320/Eclipse%2BConverge%2B-%2BSubmit%2Byour%2BProposal.png&quot; width=&quot;320&quot; /&gt;&lt;/a&gt;&lt;/div&gt;Since, the &lt;a href=&quot;https://www.eclipsecon.org/2004/index.htm&quot;&gt;first EclipseCon&lt;/a&gt; in 2004, that was held in Disneyland, Eclipse had a conference in US. I missed all the Disney music of 2004 and my first EclipseCon was in &lt;a href=&quot;https://www.eclipsecon.org/2005/&quot;&gt;2005&lt;/a&gt; but I have presented on various EclipseCons since then. Throughout these years, I was able to observe the variances on interests for EclipseCon audiences. However it is a challenge to form an EclipseCon program that is equally interesting to developers of Eclipse technology and Eclipse users. This year the job had become a bit easier, to serve varying interests EclipseCon is teaming up with &lt;a href=&quot;http://devoxx.us/&quot;&gt;Devoxx US&lt;/a&gt; and becoming &lt;a href=&quot;https://www.eclipseconverge.org/na2017/&quot;&gt;Eclipse Converge&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;As part of the program committee for Eclipse Converge, my goal is to shape a program in the spirit of the early EclipseCons where the talks would be concentrated around building and innovating on Eclipse projects. If you have talks that are deep in Eclipse technology, please &lt;a href=&quot;https://www.eclipseconverge.org/na2017/cfp&quot;&gt;submit&lt;/a&gt; them. At  least I will be voting for them.&lt;br /&gt;&lt;br /&gt;And who knows we can bring the Disney music back to EclipseCon next year!&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/GorkemErcan/eclipse/~4/W2-iGMNjqLY&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 06 Dec 2016 20:58:06 +0000</pubDate>
+	<author>noreply@blogger.com (gorkem)</author>
+</item>
+<item>
+	<title>Eclipse Announcements: CFP Closes in 1 Week | Eclipse Converge</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/6GqYdnB6E4s/cfp-closes-1-week-hurry</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/6GqYdnB6E4s/cfp-closes-1-week-hurry</link>
+	<description>Discover the tracks, and submit your passion to Eclipse Converge 2017!&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/6GqYdnB6E4s&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 05 Dec 2016 17:30:00 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Schedule Announced for Devoxx US 2017</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/q_EA8VuObvo/index.html</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/q_EA8VuObvo/index.html</link>
+	<description>Schedule for DevoxxUS 2017 is now available! 200+ talks, Hackergarten, hands-on labs, quickies, BoFs &amp;amp; more!&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/q_EA8VuObvo&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 05 Dec 2016 07:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Scott Lewis: ECF 3.13.3 Available</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-20358640.post-8739510644709172378</guid>
+	<link>http://eclipseecf.blogspot.com/2016/12/ecf-3133-available.html</link>
+	<description>ECF &lt;a href=&quot;https://www.eclipse.org/ecf/downloads.php&quot; target=&quot;_blank&quot;&gt;3.13.3 is now available&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;3.13.3 is a maintenance release, focused on fixes for ECF's implementation of &lt;a href=&quot;https://wiki.eclipse.org/Eclipse_Communication_Framework_Project#OSGi_Remote_Services&quot; target=&quot;_blank&quot;&gt;OSGi Remote Services and Remote Service Admin&lt;/a&gt;.   Among other things, the tutorial that uses &lt;a href=&quot;http://karaf.apache.org/&quot; target=&quot;_blank&quot;&gt;Karaf &lt;/a&gt;as the remote service host and Eclipse as the remote service consumer has been simplified and &lt;a href=&quot;https://wiki.eclipse.org/EIG:Install_TimeService_Tutorial_into_Apache_Karaf&quot; target=&quot;_blank&quot;&gt;updated&lt;/a&gt; to use take maximum advantage of Java8 and Eclipse Neon.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</description>
+	<pubDate>Mon, 05 Dec 2016 05:50:54 +0000</pubDate>
+	<author>noreply@blogger.com (Scott Lewis)</author>
+</item>
+<item>
+	<title>itemis: Eclipse Xtext’s new umbrella repository</title>
+	<guid isPermaLink="true">https://blogs.itemis.com/en/eclipse-xtexts-new-umbrella-repository</guid>
+	<link>https://blogs.itemis.com/en/eclipse-xtexts-new-umbrella-repository</link>
+	<description>&lt;p&gt;On November 18th the Eclipse &lt;a href=&quot;https://www.itemis.com/en/xtext/&quot;&gt;Xtext&lt;/a&gt; project added a new source repository &lt;a href=&quot;https://github.com/eclipse/xtext-umbrella&quot;&gt;eclipse/xtext-umbrella&lt;/a&gt;. This article describes the reasons for this additional repository and what is developed in there. &lt;/p&gt;  
+&lt;p&gt;In the past Eclipse Xtext was developed in a single repository, first at eclipse.org and since 2015 at GitHub in the repository &lt;a href=&quot;https://github.com/eclipse/xtext&quot;&gt;eclipse/xtext&lt;/a&gt;. After Eclipse Neon and Xtext 2.10 the code was splitted into several separate repositories:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-core&quot;&gt;eclipse/xtext-core&lt;/a&gt;: The core framework, &lt;a href=&quot;https://github.com/Microsoft/vscode-languageserver-protocol&quot;&gt;Language Server&lt;/a&gt; support&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-lib&quot;&gt;eclipse/xtext-lib&lt;/a&gt;: Libraries for &lt;a href=&quot;https://www.eclipse.org/Xtext/documentation/305_xbase.html&quot;&gt;Xbase&lt;/a&gt; and &lt;a href=&quot;http://www.xtend-lang.org&quot;&gt;Xtend&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-extras&quot;&gt;eclipse/xtext-extras&lt;/a&gt;: Additional editor-independent features, mostly Java support&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-eclipse&quot;&gt;eclipse/xtext-eclipse&lt;/a&gt;: Plug-ins for &lt;a href=&quot;http://eclipse.org&quot;&gt;Eclipse&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-idea&quot;&gt;eclipse/xtext-idea&lt;/a&gt;: Plug-ins for &lt;a href=&quot;https://www.jetbrains.com/idea/&quot;&gt;IntelliJ IDEA&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-web&quot;&gt;eclipse/xtext-web&lt;/a&gt;: Support for &lt;a href=&quot;http://eclipse.org/orion/&quot;&gt;Orion&lt;/a&gt;, &lt;a href=&quot;http://ace.c9.io&quot;&gt;Ace&lt;/a&gt; and &lt;a href=&quot;https://codemirror.net&quot;&gt;CodeMirror&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-maven&quot;&gt;eclipse/xtext-maven&lt;/a&gt;: Support for &lt;a href=&quot;https://maven.apache.org&quot;&gt;Maven&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-xtend&quot;&gt;eclipse/xtext-xtend&lt;/a&gt;: The Xtend language&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;While these repositories contain the majority of the code there is still the need for some code that is related to all sub projects and has to be placed in a central “umbrella” project: release engineering, development tools, documentation, website, etc. This code remained in the &lt;a href=&quot;https://github.com/eclipse/xtext&quot;&gt;eclipse/xtext&lt;/a&gt; repository.&lt;/p&gt; 
+&lt;h2&gt;So why a new umbrella repository?&lt;/h2&gt; 
+&lt;p&gt;When developing on Xtext, committers and contributors should have a similar development environment and all relevant Xtext sources. The Xtext project therefore provides an &lt;a href=&quot;https://wiki.eclipse.org/Eclipse_Oomph_Authoring#What_is_Oomph.3F&quot;&gt;Oomph setup&lt;/a&gt; which is automatically available in Oomph’s Eclipse product catalog. All sources also include the mentioned cross-cutting-concern projects for build, documentation, etc. Checking out the &lt;a href=&quot;https://github.com/eclipse/xtext&quot;&gt;eclipse/xtext&lt;/a&gt; repository is easy with Oomph. However, the cloned and checked out repository takes 550MB and also cloning takes a bit. The pain of this large download could be lowered if the repository would be cloned shallow. Unfortunately Oomph is not able to configure the Git Clone Task for that and JGit – which is used in the background – isn’t either (see &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=475615&quot;&gt;Bug#475615&lt;/a&gt;, &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=507324&quot;&gt;Bug#507324&lt;/a&gt;).&lt;/p&gt; 
+&lt;p&gt;This would be not a problem if developers could choose this repository optionally like any other sub project in Xtext’s setup:&lt;/p&gt; 
+&lt;p&gt;&lt;img alt=&quot;Eclipse-Xtext-oomph-repository.png&quot; height=&quot;609&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog/Xtext/Eclipse-Xtext-oomph-repository.png?t=1481545833853&amp;amp;width=724&amp;amp;height=609&amp;amp;name=Eclipse-Xtext-oomph-repository.png&quot; width=&quot;724&quot; /&gt;&lt;/p&gt; 
+&lt;p&gt;But there is an important requirement for a permanent availability of the umbrella repository.&lt;/p&gt; 
+&lt;h2&gt;The Gradle Composite Build&lt;/h2&gt; 
+&lt;p&gt;Xtext’s project structure is now due to the repository split a &lt;em&gt;multi-repository multi-project&lt;/em&gt; structure. During the development in the IDE it is important that sources from an upstream repository could be changed and seamlessly used by a project in a downstream repository. For example, if a developer debugs code in Xtend (repository &lt;a href=&quot;https://github.com/eclipse/xtext-xtend&quot;&gt;eclipse/xtext-xtend&lt;/a&gt;) and changes a class in Xbase (repository &lt;a href=&quot;https://github.com/eclipse/xtext-extras&quot;&gt;eclipse/xtext-extras&lt;/a&gt;), the change has to be used immediately. This sounds natural, but with Gradle inter-project dependencies can only be resolved within one composite build and the composite is only defined per repository. In order to resolve now cross-repository dependencies, there must be a composite that aggregates the composites of each repository.&lt;/p&gt; 
+&lt;p&gt;The Gradle composite has to be placed in an umbrella repository (&lt;a href=&quot;https://github.com/eclipse/xtext-umbrella/tree/master/releng/gradle-composite&quot;&gt;xtext-umbrella/releng/gradle-composite&lt;/a&gt;). Placing that in the &lt;a href=&quot;https://github.com/eclipse/xtext&quot;&gt;eclipse/xtext&lt;/a&gt; repository would require to clone this large repository always although just a very small bit of code is actually needed.&lt;/p&gt; 
+&lt;h2&gt;Updated Oomph setup for Xtext&lt;/h2&gt; 
+&lt;p&gt;Xtext’s Oomph setup &lt;a href=&quot;https://github.com/eclipse/xtext-eclipse/pull/118&quot;&gt;has now been updated&lt;/a&gt;. Users that set up a development environment with the &lt;a href=&quot;https://wiki.eclipse.org/Eclipse_Installer&quot;&gt;Eclipse Installer&lt;/a&gt; like described in the &lt;a href=&quot;https://github.com/eclipse/xtext/blob/master/CONTRIBUTING.md&quot;&gt;Contribution Guide&lt;/a&gt; will automatically benefit from the new setup. The setup will now additionally clone the &lt;a href=&quot;https://github.com/eclipse/xtext-umbrella&quot;&gt;eclipse/xtext-umbrella&lt;/a&gt; repository and import the projects from there for any combination of sub projects selected in the Oomph wizard.&lt;/p&gt; 
+&lt;p&gt;During tests of the new setup it becomes apparent that users should pay special attention to the &lt;em&gt;Variables&lt;/em&gt; page and therefore the &lt;em&gt;Git clone location rule&lt;/em&gt;. The value should be&lt;/p&gt; 
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;${workspace.location/.git/}${@id.remoteURI|gitRepository}&lt;/code&gt;&lt;/p&gt; 
+&lt;p&gt;if the repositories should be checked out within the workspace. On another machine I recognized that the Git branch was another directory layer, but this would break the composite build right now. It is possible that we will make this even more flexible later.&lt;/p&gt; 
+&lt;p&gt;&lt;img alt=&quot;Update-Oomph-for-XText.png&quot; height=&quot;849&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog/Xtext/Update-Oomph-for-XText.png?t=1481545833853&amp;amp;width=724&amp;amp;height=849&amp;amp;name=Update-Oomph-for-XText.png&quot; width=&quot;724&quot; /&gt;&lt;/p&gt; 
+&lt;h2&gt;Conclusion and outlook&lt;/h2&gt; 
+&lt;p&gt;The Eclipse Xtext project has now a new repository &lt;a href=&quot;https://github.com/eclipse/xtext-umbrella&quot;&gt;eclipse/xtext-umbrella&lt;/a&gt;, which contains sub project independent sources. A new repository became necessary since a new Gradle composite build was required and must be always checked out. Cloning the old main repository takes too much space and time to be reasonable for these sources.&lt;/p&gt; 
+&lt;p&gt;Contributors can now use the new project structure by setting up their environment with the updated Oomph setup.&lt;/p&gt; 
+&lt;p&gt;The new Gradle composite build became mandatory to resolve cross-repository dependencies in the IDE. In a future blog post I will go into some details on this requirement and how and why we created the composite build.&lt;/p&gt; 
+&lt;p&gt;More details can be found in the related discussions in the following issues and PRs at GitHub:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext/issues/1084&quot;&gt;Create Umbrella Project&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-eclipse/pull/118&quot;&gt;Clone Xtext umbrella project&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-umbrella/issues/3&quot;&gt;Connect sub projects to umbrella project&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-core/pull/182&quot;&gt;Gradle composite (xtext-core)&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/eclipse/xtext-lib/pull/23&quot;&gt;Gradle composite (xtext-lib)&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;You want to learn more about the project? Check these blogs:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;http://blog.efftinge.de/2015/03/xtext-moved-to-github.html&quot;&gt;Xtext moves to GitHub&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://typefox.io/xtext-core-less-is-more&quot;&gt;Xtext Core: Less is more&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt;  
+&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://track.hubspot.com/__ptq.gif?a=761475&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblogs.itemis.com%2Fen%2Feclipse-xtexts-new-umbrella-repository&amp;amp;bu=https%253A%252F%252Fblogs.itemis.com&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 02 Dec 2016 07:58:00 +0000</pubDate>
+	<author>thoms@itemis.de (Karsten Thoms)</author>
+</item>
+<item>
+	<title>vert.x project: OAuth2 got easy</title>
+	<guid isPermaLink="true">http://vertx.io/blog/oauth2-got-easy</guid>
+	<link>http://vertx.io/blog/oauth2-got-easy</link>
+	<description>&lt;article&gt;&lt;p&gt;&lt;code&gt;Oauth2&lt;/code&gt; support exists in Eclipse Vert.x since version 3.2.0. The implementation follows the principles that rule the whole vert.x ecosystem: unopinionated, it does what you want it to do, simple but not too simple.&lt;/p&gt;
+&lt;p&gt;This works fine because &lt;code&gt;OAuth2&lt;/code&gt; is a widely spread standard and vendors adhere to it quite well. However due to the API and the details of the specification it requires some knowledge on what kind of &lt;em&gt;flow&lt;/em&gt; your application needs to support, what are the endpoints for authorizing and getting tokens. This information, even though easily accessible to anyone who’s got the time and will, to read the vendor documentation is easy to find, but it means that developers would need to spend time in a non-project problem-related task.&lt;/p&gt;
+&lt;p&gt;Vert.x thrives for being fast and productive, so what if we could help you focusing on your development tasks rather than reading Oauth2 provider documentation? This is what you can expect for the next release.&lt;/p&gt;
+&lt;p&gt;Out of the box you will find out that you can instantiate an OAuth2 provider as easy as:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;hljs&quot;&gt;Provider.&lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-title&quot;&gt;create&lt;/span&gt;&lt;span class=&quot;hljs-params&quot;&gt;(vertx, clientId, clientSecret)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That’s it! simple, to the point, sure it makes some assumptions, it assumes that you want to use the “&lt;code&gt;AUTH_CODE&lt;/code&gt;“ flow which is what you normally do for web applications with a backend.&lt;/p&gt;
+&lt;p&gt;The supported &lt;code&gt;Provider&lt;/code&gt; implementations will configure the base API (which will be still available) with the correct URLs, scope encoding scheme or extra configuration such as “&lt;code&gt;shopId&lt;/code&gt;“/“&lt;code&gt;GUID&lt;/code&gt;“ for &lt;code&gt;Shopify&lt;/code&gt;/&lt;code&gt;Azure AD&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;So what supported &lt;code&gt;Provider&lt;/code&gt;s can you already find?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://app.net/&quot;&gt;App.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/en-us/&quot;&gt;Azure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://box.com&quot;&gt;Box.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dropbox.com&quot;&gt;Dropbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://facebook.com&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://foursquare.com&quot;&gt;Foursquare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://github.com&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://google.com&quot;&gt;Google&lt;/a&gt; (either &lt;code&gt;AUTH_CODE&lt;/code&gt; flow or &lt;code&gt;Server to Server&lt;/code&gt; flow) &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://instagram.com&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://keycloak.org&quot;&gt;Keycloak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://linkedin.com&quot;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mailchimp.com&quot;&gt;Mailchimp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://salesforce.com&quot;&gt;Salesforce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://shopify.com&quot;&gt;Shopify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://soundcloud.com&quot;&gt;Soundcloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://stripe.com&quot;&gt;Stripe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That’s a handful of &lt;code&gt;Provider&lt;/code&gt;s, but there is more. Say that you want to ensure that your SSL connections are valid and want to control the certificate validation. Every provider also accepts a HttpClientOptions object that will be used internally when contacting your provider, so in this case, you have full security control of your connection, not just defaults.&lt;/p&gt;
+&lt;p&gt;You can expect this new code to land for 3.4 as it is not available in the current release (3.3.3).&lt;/p&gt;
+&lt;/article&gt;</description>
+	<pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Kichwa Coders: The Open Source Advent Calendar</title>
+	<guid isPermaLink="false">http://kichwacoders.com/?p=1050</guid>
+	<link>https://kichwacoders.com/2016/12/01/os-advent-calendar/</link>
+	<description>&lt;p&gt;&lt;img alt=&quot;oscalendar&quot; class=&quot;alignnone size-full wp-image-1063&quot; src=&quot;https://kichwacoders.files.wordpress.com/2016/12/oscalendar.png?w=840&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;It’s that time of year again. But I don’t really like chocolate. And there’s only so many times you can do a Lego advent calendar. However, I do really love open source software. So for a change, it’s time to spread some open source software magic.&lt;/p&gt;
+&lt;p&gt;The Open Source Advent calendar works like a normal advent calendar, but instead of the usual countdown, in this case each day has a specific ‘act of open source goodness’. Whether you are an existing open source committer, a contributor or even a lurker looking to get involved, the open source advent calendar will get you right into the spirit of things. It’s like the Kindness Calendar but for open source software.&lt;/p&gt;
+&lt;p&gt;We’ll be working as a team at Kichwa Coders to step through the calendar, focusing on the projects we love.  We’re using the hashtag &lt;a href=&quot;https://twitter.com/hashtag/OpenSourceAdventCalendar&quot; target=&quot;_blank&quot;&gt;#OpenSourceAdventCalendar&lt;/a&gt; to share our acts of open source. We invite you to join us, create an open source ripple effect and make a difference to open source projects everywhere this December!&lt;/p&gt;
+&lt;p&gt;Download the Open Source Advent Calendar &lt;a href=&quot;https://kichwacoders.files.wordpress.com/2016/12/opensourceadventcalendar.pdf&quot; title=&quot;opensourceadventcalendar&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/kichwacoders.wordpress.com/1050/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/kichwacoders.wordpress.com/1050/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=kichwacoders.com&amp;amp;blog=68353182&amp;amp;post=1050&amp;amp;subd=kichwacoders&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Thu, 01 Dec 2016 10:29:46 +0000</pubDate>
+</item>
+<item>
+	<title>Antoine Thomas: The Eclipse User Profile</title>
+	<guid isPermaLink="false">http://blog.ttoine.net/?p=1156</guid>
+	<link>http://blog.ttoine.net/en/2016/12/01/the-eclipse-user-profile/</link>
+	<description>&lt;p&gt;Following a soft release in October 2016, including several features, the collection of user feedback, related testing and adding improvements, it is officially time to announce the launch of…&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“&lt;strong&gt;The Eclipse User Profile&lt;/strong&gt;“&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3&gt;Story&lt;/h3&gt;
+&lt;p&gt;The aim of the Eclipse User Profile (previously known as the User Dashboard), is to provide user’s with an overview of their community user activity on eclipse.org websites and services (such as Eclipse Marketplace).&lt;/p&gt;
+&lt;p&gt;The User Profile includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A simple URL, easy to remember and share, https://eclipse.org/user/ttoine;&lt;br /&gt;
+An overview of a user’s activity, retrievable from their account, and also made shareable with a link;&lt;br /&gt;
+A way for community users to find other users, and to understand who they are;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Case:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A young developer is using a plugin in the Eclipse IDE, and submits a bug to ask for an improvement. A top contributor or project lead answers the bug. On Bugzilla, the only information you can see about a specific user is their email address. So how can the young engineer contextualize the value and merit of the answer he or she receives?&lt;/li&gt;
+&lt;li&gt;Instead of only being able to see a public email address, a link to the Eclipse User Profile will appear, helping the young developer understand who the other participants are, and why their input is of value.&lt;/li&gt;
+&lt;li&gt;Users can also share their profile URL in their email signature, on social networks, when applying for a job, as a footprint of their activity and software development work…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Roadmap&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You can read through  the bug tree on Bugzilla for the Eclipse User Profile:&lt;br /&gt;
+&lt;a href=&quot;https://bugs.eclipse.org/bugs/showdependencytree.cgi?id=493458&amp;amp;hide_resolved=0&quot;&gt;https://bugs.eclipse.org/bugs/showdependencytree.cgi?id=493458&amp;amp;hide_resolved=0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The specification are available on the public wiki:&lt;br /&gt;
+&lt;a href=&quot;https://wiki.eclipse.org/Eclipse_User_Profile&quot;&gt;https://wiki.eclipse.org/Eclipse_User_Profile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A live mockup is available on Github:&lt;br /&gt;
+&lt;a href=&quot;https://ttoine.github.io/eclipse-user-profile/user-profile.html&quot;&gt;https://ttoine.github.io/eclipse-user-profile/user-profile.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Every month we will add new features to the Eclipse User Profile. Below you will find a list of the currently available features, and the features scheduled on the roadmap for the next release.&lt;/p&gt;
+&lt;h4&gt;Released :&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;User presentation, including short presentation, social networks and interests;&lt;/li&gt;
+&lt;li&gt;Eclipse status;&lt;/li&gt;
+&lt;li&gt;Upcoming events;&lt;/li&gt;
+&lt;li&gt;Developer tools, Committer tools;&lt;/li&gt;
+&lt;li&gt;Data management;&lt;/li&gt;
+&lt;li&gt;Applications management;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;In Progress:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Hudson HIPP control;&lt;/li&gt;
+&lt;li&gt;Activity tab has Gerrit, Marketplace and Forum (more to come);&lt;/li&gt;
+&lt;li&gt;Statistics block has Gerrit, Marketplace and Forum (more to come);&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;December Release:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Adding pagination to the activity tab to improve user experience;&lt;/li&gt;
+&lt;li&gt;Adding an activity tab about Projects involvements;&lt;/li&gt;
+&lt;li&gt;Starting migration of the user preferences and information to the user profile;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to submit a bug on Bugzilla, please open it under ‘Community’, and select the ‘accounts.eclipse.org’ component. You can set it to block bug 493458.&lt;/p&gt;
+&lt;h4&gt;Coming Soon&lt;/h4&gt;
+&lt;p&gt;Other features are planned on the roadmap, such as the  integration with Eclipse Bugzilla and Wiki, listing talks at events and articles on Eclipse Planet. Anything we deem potentially useful for Eclipse users that are active within the Eclipse ecosystem, but who are not necessarily code contributors.&lt;/p&gt;
+&lt;p&gt;We are also interested in displaying Github activity, as it affects Eclipse end users. Although it is outside of our infrastructure, it would be very interesting to display Github activity and user information. If you know Github’s API well, your help is welcome in order to assist us in planning the best way to display information like the number of commits a user has per year in the statistic block, and user’s recent activity (e.g: like for the forum, last activity in contributing repositories).&lt;/p&gt;
+&lt;h3&gt;F.A.Q&lt;/h3&gt;
+&lt;h4&gt;Can I add my project to the Eclipse User Profile?&lt;/h4&gt;
+&lt;p&gt;The User Profile is open to integration with Eclipse projects.&lt;/p&gt;
+&lt;p&gt;This can be done to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Display information on the activity tab;&lt;/li&gt;
+&lt;li&gt;Store application data on the user profile;&lt;/li&gt;
+&lt;li&gt;Manage access rights with OpenID connect;&lt;/li&gt;
+&lt;li&gt;If you are interested, please, do not hesitate to contact us with your feedback and input.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;How do we retrieve user data?&lt;/h4&gt;
+&lt;p&gt;To fetch data from our API and to display it on the user profile, we are using a jQuery library. For some of the services we use their REST API. And for other services, we gather data before on api.eclipse.org. This architecture is very flexible, and allows the User Profile to in theory retrieve data from all of the eclipse.org sites. You can find our work on Github: https://github.com/EclipseFdn/jquery-eclipsefdn-api&lt;/p&gt;
+&lt;h4&gt;Is the data public?&lt;/h4&gt;
+&lt;p&gt;We only display information that is already publicly available on your user profile, coming from the Eclipse’s websites. We may display public information from Github in near future if we proceed with the integration.&lt;/p&gt;
+&lt;h4&gt;How do I find a user?&lt;/h4&gt;
+&lt;p&gt;This is a very good question, and we are working on this capability. The specification should be done before the end of December 2016, in order to start the development of this functionality at the beginning of next year. The general idea is to have a simple search for first-name/name, nickname, or email, with some filtering options. An advanced search form could be made possible, with more fields retrieved from public data, like location, organisation, social networks accounts, projects involvement.&lt;/p&gt;
+&lt;h3&gt;Feedback is welcome&lt;/h3&gt;
+&lt;p&gt;The feedback we have received from early adopters has been positive and instrumental in allowing us to improve the Eclipse User Profile. It is clear that Eclipse end users and contributors don’t have the same needs. That is why your feedback is important and needed to help us distinguish functionality.&lt;/p&gt;
+&lt;p&gt;If you have ideas, if you want to help, or if you want to share your experience, please:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open a bug;&lt;/li&gt;
+&lt;li&gt;Find me on &lt;a href=&quot;https://twitter.com/ttoine&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/ttoine&quot;&gt;Linkedin&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;Look for my email on &lt;a href=&quot;https://eclipse.org/user/ttoine&quot;&gt;my Eclipse User Profile&lt;/a&gt;;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thank you!&lt;/p&gt;</description>
+	<pubDate>Thu, 01 Dec 2016 10:22:25 +0000</pubDate>
+</item>
+<item>
+	<title>Sven Efftinge: TypeFox</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-24248206.post-349283211302078927</guid>
+	<link>http://blog.efftinge.de/2016/02/typefox-xtext-company.html</link>
+	<description>As many of you already noticed, we had to find a company name without 'Xtext' in it. Longer story short, we finally decided for &lt;b&gt;TypeFox &lt;/b&gt;(it still has an 'x', ey? ;-)).  We are still all about Xtext and Xtend, of course.&lt;br /&gt;&lt;br /&gt;The &lt;a href=&quot;http://typefox.io/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt; is online now and reveals some additional details about what we do. Also we are having a blog there, which will be updated with useful content around Xtext and Xtend and more general about language engineering, code generators and so on on a regular basis. If you want to get notified about the content, there is a monthly newsletter. It will contain information about the latest blog post, upcoming Xtext and Xtend releases and upcoming events. The sign-up form is on the &lt;a href=&quot;http://typefox.io/blog&quot; target=&quot;_blank&quot;&gt;blog&lt;/a&gt; page.&lt;br /&gt;&lt;br /&gt;Also &lt;a href=&quot;http://koehnlein.blogspot.de/2016/02/founding-typefox.html&quot; target=&quot;_blank&quot;&gt;Jan&lt;/a&gt; joined this month as a co-founder and there will be five more friends (Xtext committers) joining TypeFox in the coming weeks.&lt;br /&gt;&lt;br /&gt;Finally I wanted to say &lt;b&gt;thank you&lt;/b&gt;, for all the good wishes and the trust of our partners who already do business with us. It starts all very well and I am very thankful for that.&lt;br /&gt;&lt;br /&gt;How do you like our logo?&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://3.bp.blogspot.com/-i3PjdWo0vLs/Vrsa75Qe9uI/AAAAAAAAA9g/XAyMbMi7Wm8/s1600/1.jpg&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;247&quot; src=&quot;https://3.bp.blogspot.com/-i3PjdWo0vLs/Vrsa75Qe9uI/AAAAAAAAA9g/XAyMbMi7Wm8/s320/1.jpg&quot; width=&quot;320&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;</description>
+	<pubDate>Wed, 30 Nov 2016 08:04:39 +0000</pubDate>
+	<author>noreply@blogger.com (Sven Efftinge)</author>
+</item>
+<item>
+	<title>itemis: YAKINDU Statechart Tools 2.9 – New and noteworthy</title>
+	<guid isPermaLink="true">https://blogs.itemis.com/en/yakindu-statechart-tools-2.9-new-and-noteworthy</guid>
+	<link>https://blogs.itemis.com/en/yakindu-statechart-tools-2.9-new-and-noteworthy</link>
+	<description>&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The YAKINDU team is happy to announce the new YAKINDU Statechart Tools 2.9.0 release! Only 6 weeks after our last release we are proud to present you the new version with some long-expected features and several bug fixes and improvements.&lt;/span&gt;&lt;/p&gt;  
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The product bundle of SCT is shipped with Eclipse Neon.1 as underlying platform. However, SCT does not require Neon to be installed. You can still update the SCT plugins with a Mars based IDE or the previous SCT bundle. You can &lt;a href=&quot;https://info.itemis.com/download-yakindu-statechart-tools&quot;&gt;download the current version of YAKINDU Statechart Tools from our download page&lt;/a&gt; where you also find the links to our update sites.&lt;/span&gt;&lt;/p&gt; 
+&lt;h2&gt;&lt;strong&gt;Headless Code Generator&lt;/strong&gt;&lt;/h2&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The new release provides a headless code generator infrastructure that allows easy integration in continuous build environments. As the state machine code is fully derived from the statechart model, it is best practice to generate it on the fly during a CI-build instead of polluting your version control system with generated artifacts. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;And here is the good news: The headless code generator can simply be called from the command line and thus can be integrated with different CI-Tools easily. No matter if you use &lt;a href=&quot;https://gradle.org/&quot;&gt;Gradle&lt;/a&gt;, &lt;a href=&quot;https://maven.apache.org/&quot;&gt;Maven&lt;/a&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;or &lt;a href=&quot;https://cmake.org/&quot;&gt;Make&lt;/a&gt;: all you need is a Java runtime on your build machine.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;For more information about headless code generation &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;read our &lt;a href=&quot;https://www.itemis.com/en/yakindu/statechart-tools/documentation/user-guide/#generating-state-machine-code-headless&quot;&gt;documentation&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;img alt=&quot;YAKINDU-statechart-tools-Release-2.9.0.png&quot; height=&quot;98&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog/YAKINDU%20Statechart%20Tools/YSCT_Release2.9.0.png?t=1481545833853&amp;amp;width=724&amp;amp;height=98&amp;amp;name=YSCT_Release2.9.0.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;724&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;h2&gt;&lt;strong&gt;Automated Error Reporting (AERI)&lt;/strong&gt;&lt;/h2&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;To further improve the quality of our code base, we added the well known AERI Feature (Automated Error Reporting) to the latest release. Thanks a lot to the &lt;a href=&quot;https://www.ctrlflow.com/&quot;&gt;ctrlflow team&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; who provides a great software as a service infrastructure for collecting error reports!&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;img alt=&quot;YAKINDU-statechart-tools-Release-2.9.0-Bug-Report.png&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog/YAKINDU%20Statechart%20Tools/YSCT_Release2.9.0_Bug.png?t=1481545833853&amp;amp;width=320&amp;amp;name=YSCT_Release2.9.0_Bug.png&quot; style=&quot;width: 320px; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;320&quot; /&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;In case you run into an error when using SCT, you will be asked to report this to the developers of YAKINDU Statechart Tools. This feature is disabled by default, so if you do not explicitly enable it nothing will be sent to us. Please see our &lt;a&gt;privacy policy&lt;/a&gt; for more details. Every bug report helps! We are looking forward to your feedback.&lt;/p&gt; 
+&lt;p&gt;&lt;a class=&quot;cta_button&quot; href=&quot;https://info.itemis.com/cs/ci/?pg=f7472989-2c3e-4836-b8ee-321d9d48b91d&amp;amp;pid=761475&amp;amp;ecid=&quot;&gt; &lt;img align=&quot;middle&quot; alt=&quot;Download Statechart Tools&quot; class=&quot;hs-cta-img &quot; src=&quot;https://no-cache.hubspot.com/cta/default/761475/f7472989-2c3e-4836-b8ee-321d9d48b91d.png&quot; /&gt; &lt;/a&gt;&lt;/p&gt;  
+&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://track.hubspot.com/__ptq.gif?a=761475&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblogs.itemis.com%2Fen%2Fyakindu-statechart-tools-2.9-new-and-noteworthy&amp;amp;bu=https%253A%252F%252Fblogs.itemis.com&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 29 Nov 2016 14:56:48 +0000</pubDate>
+	<author>andreas.muelder@itemis.de (Andreas Mülder)</author>
+</item>
+<item>
+	<title>Kichwa Coders: Pushing the Limits of Xtext for C/C++ Linker Scripts</title>
+	<guid isPermaLink="false">http://kichwacoders.com/?p=921</guid>
+	<link>https://kichwacoders.com/2016/11/28/pushing-the-limits-of-xtext-for-cc-linker-scripts/</link>
+	<description>&lt;p&gt;&lt;img alt=&quot;simplemem&quot; class=&quot;alignnone size-full wp-image-1020 aligncenter&quot; src=&quot;https://kichwacoders.files.wordpress.com/2016/11/simplemem.png?w=840&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Xtext is the popular Eclipse language development framework for domain specific languages. Its sweet spot is &lt;a href=&quot;http://www.eclipse.org/Xtext/documentation/104_jvmdomainmodel.html&quot; target=&quot;_blank&quot;&gt;JVM-languages&lt;/a&gt; and it is excellent for languages where you can define the grammar yourself. But how well can Xtext cope with a non-JVM language that has undergone decades of evolution?&lt;/p&gt;
+&lt;p&gt;In our case, we want to see if we can take advantage of Xtext to create an editor for C/C++ linker scripts in CDT. Linker scripts are used to specify the memory sections, layouts and how code relates to these sections. Linker scripts consist of the ld command language, and this is what a simple typical script might look like:&lt;/p&gt;
+&lt;pre&gt;MEMORY {
+ RAM : ORIGIN = 0x0, LENGTH = 0x2000
+ ROM : ORIGIN = 0x80000, LENGTH = 0x10000
+}
+
+SECTIONS {
+ .text : { *(.text) *(.text.*) } &amp;gt; ROM
+ .rodata : { *(.rodata) *(.rodata.*) } &amp;gt; ROM
+ .data : { *(.data) *(.data.*) } &amp;gt; RAM
+ .bss : { _bss = .; *(.bss) *(.bss.*) *(COMMON) _ebss = .; _end = .; } &amp;gt; RAM
+}&lt;/pre&gt;
+&lt;h3&gt;Alternatives to Xtext&lt;/h3&gt;
+&lt;p&gt;Besides using Xtext, its worth considering some of the other options there are for this task:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Roll-your-own – the existing C/C++ Editor in CDT does this, gives full control, best error-recovery and supports bidirectionality, recreating source from abstract syntax tree (AST), but it is a last resort as it would be an incredible amount of work that would take a long time to get right.&lt;/li&gt;
+&lt;li&gt;Antlr – write your own antlr grammar, but since antlr is already used in Xtext, may as well use Xtext and get benefits of Eclipse editor integration&lt;/li&gt;
+&lt;li&gt;Reuse linker’s bison grammar – would give perfect parsing, but it is a no-go because i) it’s GPL ii) it generates C code not Java &amp;amp; iii) requirements for editing are much more strenuous than for linking and this for example, would not support bidirectionality (i.e you can’t recreate the linker file from the AST).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Benefits of Xtext&lt;/h3&gt;
+&lt;p&gt;The Xtext framework additionally provides these nice features we are interested in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Parsing, lexing &amp;amp; AST generation
+&lt;ul&gt;
+&lt;li&gt;serialisation support is particularly important to support bidirectionality and preserve users comments, whitespace etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Rich Editor Features
+&lt;ul&gt;
+&lt;li&gt;syntax highlighting&lt;/li&gt;
+&lt;li&gt;content assist&lt;/li&gt;
+&lt;li&gt;validation &amp;amp; error markers&lt;/li&gt;
+&lt;li&gt;code folding &amp;amp; bracket matching&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Integrated Outline editor&lt;/li&gt;
+&lt;li&gt;Ecore model generation which can be used for integration with UI frameworks such as EMF Forms, Sirius, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Linker Script Parsing Challenges&lt;/h2&gt;
+&lt;p&gt;When we talk about the ld command language being a non-JVM language, here are some specific challenges related to what that means.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Crazy Identifiers!&lt;/strong&gt; The following are valid identifiers in linker scripts:
+&lt;ul&gt;
+&lt;li&gt;.text&lt;/li&gt;
+&lt;li&gt;*&lt;/li&gt;
+&lt;li&gt;hello*.o&lt;/li&gt;
+&lt;li&gt;“spaces are ok, just quote the identifier”&lt;/li&gt;
+&lt;li&gt;this+is-another*crazy[example]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identifier or Number?&lt;/strong&gt; Things that appear to be identifiers may actually be numbers:
+&lt;ul&gt;
+&lt;li&gt;a123 – identifier&lt;/li&gt;
+&lt;li&gt;a123x – number&lt;/li&gt;
+&lt;li&gt;123y – identifier&lt;/li&gt;
+&lt;li&gt;123h -number&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identifier or Expression?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;In the grammar 2+3, for example, depending on context, can either be an identifier or an expression:&lt;/p&gt;
+&lt;pre style=&quot;padding-left: 60px;&quot;&gt;SECTIONS {
+ .out_name : {
+  file*.o(.text.*)
+  2+3(*)
+  symbol = 2+3;
+ }
+}&lt;/pre&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;The first 2+3 is a filename, so almost anything that can be a filename is allowed there. The second 2+3 is an expression to be assigned to symbol.&lt;/p&gt;
+&lt;h2&gt;Resolutions&lt;/h2&gt;
+&lt;p&gt;Here’s what we did to support the linker language as far as we could:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Custom Xtext grammar – &lt;/strong&gt;as extending the XType grammar does not make sense, the main job is to craft the grammar to understand all the linker script identifier and expressions specifics. This involves iterating as we add in more and more language feature support, here’s &lt;a href=&quot;https://git.eclipse.org/r/#/c/85853&quot; target=&quot;_blank&quot;&gt;the work in progress&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Limited Identifier Support – &lt;/strong&gt;in some cases we opted to not support certain identifiers unless they are escaped (double-quoted). While linker scripts theoretically support such identifiers (e.g. 1234abcd) we have not found a single case yet of an identifier that would actually need escaping. If one did crop up, the user could adjust it to work with the editor (e.g. “1234abcd”).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Context Based Lexing – &lt;/strong&gt;knowing the difference between an identifier or expression would require context based lexing rules. However this will not work with the antlr lexer. We have the option to replace it with a custom or external lexer. This is an option that can be considered in the future if desirable.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Xtext is a great language development framework. While Xtext may not be able to support every theoretical case of the long-lived linker script command language, it can be used to provide a very high level of support for the common features. Support for context based lexing in the future would enable a higher level of language support. Xtext can be used to provide a rich language editor with syntax colouring, command completion, integrated outline view &amp;amp; more in a relatively short space of time. A powerful linker script editor is another great feature for C/C++ developers that use CDT, the reference C/C++ IDE in the industry.&lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/kichwacoders.wordpress.com/921/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/kichwacoders.wordpress.com/921/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=kichwacoders.com&amp;amp;blog=68353182&amp;amp;post=921&amp;amp;subd=kichwacoders&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 28 Nov 2016 14:54:35 +0000</pubDate>
+</item>
+<item>
+	<title>Tom Schindl: Improving Min/Max performance in “e4-on-JavaFX” applications</title>
+	<guid isPermaLink="false">http://tomsondev.bestsolution.at/?p=4867</guid>
+	<link>https://tomsondev.bestsolution.at/2016/11/25/improving-minmax-performance-in-e4-on-javafx-applications/</link>
+	<description>&lt;p&gt;When it comes to performance in JavaFX one of the biggest problems is that if you detach and reattach a big SceneGraph-Part you run:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CSS-Pass&lt;/li&gt;
+&lt;li&gt;Layout-Pass&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So in general one should avoid those operations as much as possible but there are situations you can’t get something implemented without doing exactly this kind of thing.&lt;/p&gt;
+&lt;p&gt;In the &lt;strong&gt;current architecture&lt;/strong&gt; of e(fx)clipse we need to use this reparenting in case of minimizing/maximizing certain areas of your &lt;a href=&quot;https://wiki.eclipse.org/Efxclipse/Runtime/e4&quot;&gt;e4-on-JavaFX application&lt;/a&gt; which might lead to a very poor user experience if you eg have a &lt;code&gt;MPartStack&lt;/code&gt; with many complex substructures (like eg our &lt;a href=&quot;https://wiki.eclipse.org/Efxclipse/SmartCode&quot;&gt;code editor&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Today we took a closer look for one of our customers to find out if we – the e(fx)clipse – framework can do anything to fix that problem and after some experiments we managed to come up with a solution who allows us to reparent the content of an &lt;code&gt;MPartStack&lt;/code&gt; in constant time:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;In general I’d say that such optimization should not be required and JavaFX CSS and Layout performance HAS to be improved in general and JavaFX-Components have to get smarter in not running CSS-Passes on SG-Parts who are currently not showing.&lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/tomsondev.wordpress.com/4867/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/tomsondev.wordpress.com/4867/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=tomsondev.bestsolution.at&amp;amp;blog=7995503&amp;amp;post=4867&amp;amp;subd=tomsondev&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 25 Nov 2016 20:00:10 +0000</pubDate>
+</item>
+<item>
+	<title>Tom Schindl: New SashLayout container has landed in e(fx)clipse</title>
+	<guid isPermaLink="false">http://tomsondev.bestsolution.at/?p=4862</guid>
+	<link>https://tomsondev.bestsolution.at/2016/11/25/new-sashlayout-container-has-landed-in-efxclipse/</link>
+	<description>&lt;p&gt;I just pushed a new layout-container who has a similar feature set than the JavaFX built-in &lt;code&gt;SplitPane&lt;/code&gt; but ensures that proportions are not corrupted if you shrink the container (just watch the video below to get an idea what I mean).&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The layout algorithm is not something I came up myself. I just reworked the one from SWT to be used in JavaFX.&lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/tomsondev.wordpress.com/4862/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/tomsondev.wordpress.com/4862/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=tomsondev.bestsolution.at&amp;amp;blog=7995503&amp;amp;post=4862&amp;amp;subd=tomsondev&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 25 Nov 2016 10:24:58 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Registration Open | Eclipse Converge</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/l7Os-6Ow1cc/registration-open</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/l7Os-6Ow1cc/registration-open</link>
+	<description>Discover the newest Eclipse Community event. Join us in San Jose alongside Devoxx US.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/l7Os-6Ow1cc&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 25 Nov 2016 07:30:00 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
